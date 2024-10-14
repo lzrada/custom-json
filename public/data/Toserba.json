@@ -1,0 +1,21 @@
+{
+  "Alfamart": [
+    {
+      "IdProduk": "214",
+      "NamaProduk": "gula putih",
+      "Harga": "17500",
+      "Stok": 45,
+      "Merk": "Gulaku",
+      "Deskripsi": "Gula dengan kualitas tinggi"
+    },
+    {
+      "IdProduk": "222",
+      "NamaProduk": "Beras",
+      "berat": "5 kg",
+      "Harga": "65000",
+      "Stok": 30,
+      "Merk": "Koi",
+      "Deskripsi": "Beras yang gitanam dengan kualitas tinggi dan cinta."
+    }
+  ]
+}
